@@ -12,6 +12,6 @@ Install it with Google Play using the badge above.
     
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/aniket691/RecipeApp/master/app/src/main/assets/Image1.jpg" height="500" width="250">             <img src="https://raw.githubusercontent.com/aniket691/RecipeApp/master/app/src/main/assets/image2.jpg" height="500" width="250">                  <img src="https://raw.githubusercontent.com/aniket691/RecipeApp/master/app/src/main/assets/image3.jpg" height="500" width="250">
+<img src="https://raw.githubusercontent.com/aniket691/MovieTask/main/app/images/2%20(1).jpg" height="500" width="250">             <img src="https://raw.githubusercontent.com/aniket691/MovieTask/main/app/images/2%20(2).jpg" height="500" width="250">                
 
 

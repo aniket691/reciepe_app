@@ -14,4 +14,11 @@ Install it with Google Play using the badge above.
 
 <img src="https://raw.githubusercontent.com/aniket691/RecipeApp/08b05cf431c4bd39ccb307f6bad0a56843caa05f/app/src/main/assets/Image1.jpg" height="500" width="250">             <img src="https://raw.githubusercontent.com/aniket691/RecipeApp/08b05cf431c4bd39ccb307f6bad0a56843caa05f/app/src/main/assets/image2.jpg" height="500" width="250">       <img src="https://raw.githubusercontent.com/aniket691/RecipeApp/08b05cf431c4bd39ccb307f6bad0a56843caa05f/app/src/main/assets/image3.jpg" height="500" width="250">                
 
+## Getting started
+You'll find everything you need to get started in the project wiki, but you can also begin by simply browsing through the repository and finding what's of interest to you. You'll find README files in key directories, and Javadoc throughout the code. The app and all of its documentation are designed with the idea of a 'self-guided tour' in mind.
 
+## Q&A and issue tracking
+If you have any questions, feedback, or feature requests, don't hesitate to add an issue.
+
+## Contributing
+Pull requests are welcome; see the contributor guidelines for details.
